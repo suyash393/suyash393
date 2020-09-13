@@ -2,8 +2,8 @@
 
 #### My name is Suyash Powar. Learning everything that i can in computer field :sparkles:
 * 🔭 I’m currently working on Deep Neural Nets and OpenCV Project.
-###### 🌱 I’m currently learning about A.I.
-###### 💬 Ask me about anything.
+* 🌱 I’m currently learning about A.I.
+* 💬 Ask me about anything.
 
 <!--
 **suyash393/suyash393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
