@@ -1,5 +1,6 @@
 # Hi there 👋 
-# 🌱 I’m currently learning ...
+
+### My name is Suyash Powar. Learning everything that i can in computer field :sparkles:
 
 <!--
 **suyash393/suyash393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
