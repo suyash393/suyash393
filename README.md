@@ -1,6 +1,6 @@
 # Hello there 👋 
 
-#### My name is Suyash Powar. Learning everything that i can in computer field :sparkles:
+#### My name is Suyash Powar. Learning everything that i can in computer science field :sparkles:
 * 🔭 I’m currently working on Deep Neural Nets and OpenCV Project.
 * 🌱 I’m currently learning about A.I.
 * 💬 Ask me about anything.
