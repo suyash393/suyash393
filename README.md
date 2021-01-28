@@ -1,4 +1,4 @@
-# Hi there 👋 
+# Hello there 👋 
 
 #### My name is Suyash Powar. Learning everything that i can in computer field :sparkles:
 * 🔭 I’m currently working on Deep Neural Nets and OpenCV Project.
